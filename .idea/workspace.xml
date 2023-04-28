@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="114d03aa-124c-4e6e-9ff4-c900972a46fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/01_first_steps/basketball_equipment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_first_steps/concatenate_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_first_steps/converter_cm_to_inch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_first_steps/deposit_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_first_steps/fish_tank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_first_steps/food_delivery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_first_steps/greetings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_first_steps/hi_softuni.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_first_steps/pet_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_first_steps/projects_creation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_first_steps/radians_to_degrees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_first_steps/repainting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_first_steps/supplies_for_school.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_first_steps/usd_to_bgn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_first_steps/vacation_book_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_first_steps/yard_greening.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_conditional_statements/area_of_figures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_conditional_statements/bonus_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_conditional_statements/even_or_odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_conditional_statements/excellent_result.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_conditional_statements/godzilla_vs_kong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_conditional_statements/greater_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_conditional_statements/lunch_break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_conditional_statements/number_100_200.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_conditional_statements/password_guess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_conditional_statements/shopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_conditional_statements/speed_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_conditional_statements/sum_seconds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_conditional_statements/time_plus_fifteen_minutes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_conditional_statements/toy_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_conditional_statements/world_swimming_record.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_conditional_statements_advanced/animal_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_conditional_statements_advanced/cinema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_conditional_statements_advanced/cinema_ticket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_conditional_statements_advanced/day_of_week.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_conditional_statements_advanced/fishing_boat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_conditional_statements_advanced/fruit_and_vegetable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_conditional_statements_advanced/fruit_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_conditional_statements_advanced/hotel_room.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_conditional_statements_advanced/invalid_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_conditional_statements_advanced/journey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_conditional_statements_advanced/new_house.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_conditional_statements_advanced/number_in_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_conditional_statements_advanced/on_time_for_exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_conditional_statements_advanced/operations_between_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_conditional_statements_advanced/personal_titles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_conditional_statements_advanced/ski_trip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_conditional_statements_advanced/small_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_conditional_statements_advanced/summer_outfit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_conditional_statements_advanced/trade_commissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_conditional_statements_advanced/weekend_or_working_day.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_conditional_statements_advanced/working_hours.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_for_loop/character_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_for_loop/clever_lily.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_for_loop/even_powers_of_two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_for_loop/half_sum_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_for_loop/histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_for_loop/left_and_right_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_for_loop/number_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_for_loop/numbers_ending_in_seven.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_for_loop/numbers_n_to_one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_for_loop/numbers_one_to_hundred.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_for_loop/numbers_one_to_n.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_for_loop/odd_even_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_for_loop/oscars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_for_loop/salary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_for_loop/sum_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_for_loop/tennis_ranklist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_for_loop/trekking_mania.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_for_loop/vowels_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_while_loop/account_balance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_while_loop/cake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_while_loop/coins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_while_loop/exam_preparation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_while_loop/graduation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_while_loop/max_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_while_loop/min_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_while_loop/moving.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_while_loop/old_books.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_while_loop/password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_while_loop/read_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_while_loop/sequence_two_k_plus_one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_while_loop/sum_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_while_loop/vacation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_while_loop/walking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_nested_loops/building.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_nested_loops/cinema_tickets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_nested_loops/clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_nested_loops/combinations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_nested_loops/equal_sums_even_odd_position.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_nested_loops/multiplication_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_nested_loops/number_pyramid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_nested_loops/special_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_nested_loops/sum_of_two_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_nested_loops/sum_prime_non_prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_nested_loops/train_the_trainers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_nested_loops/travelling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_exam/cat_food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_exam/cat_life.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_exam/gold_mine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_exam/mining_rig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_exam/puppy_care.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_exam/spaceship.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="29pyKycpnlacoI4zFVqXf5c6i8o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.deposit_calculator">
+    <configuration name="deposit_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="basics_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_first_steps" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_first_steps/deposit_calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lunch_break" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="basics_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_basics/venv/02_conditional_statements" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basics/venv/02_conditional_statements/lunch_break.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.deposit_calculator" />
+        <item itemvalue="Python.lunch_break" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="114d03aa-124c-4e6e-9ff4-c900972a46fb" name="Changes" comment="" />
+      <created>1653824261859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653824261859</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
